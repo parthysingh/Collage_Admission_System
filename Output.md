@@ -155,4 +155,4 @@ PROGRAM EXITED
 
 ![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/select.png?raw=true)
 
-![image alt]()
+![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/desc.png?raw=true)
