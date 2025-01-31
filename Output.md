@@ -149,10 +149,10 @@ PROGRAM EXITED
 
 # OUTPUTS IN MYSQL PROGRAM :-
 
-![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/database.png?raw=true)
+![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/Photos/database.png?raw=true)
 
-![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/tables.png?raw=true)
+![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/Photos/tables.png?raw=true)
 
-![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/select.png?raw=true)
+![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/Photos/select.png?raw=true)
 
-![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/desc.png?raw=true)
+![image alt](https://github.com/parthysingh/Collage_Admission_System/blob/main/Photos/desc.png?raw=true)
