@@ -148,7 +148,7 @@ Enter your choice : 12
 PROGRAM EXITED
 
 # OUTPUTS IN MYSQL PROGRAM :-
-1. ![image alt}()
+1. ![image alt}(https://github.com/parthysingh/Collage_Admission_System/blob/main/database.png?raw=true)
 1. ![image alt}()
 1. ![image alt}()
 1. ![image alt}()
